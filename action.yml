@@ -1,6 +1,6 @@
 name: "AWS S3 Sync with CloudFront Cache invalidation & wait for deployment"
 description: "Sync a directory to an AWS S3 bucket and invalidate the CloudFront cache & wait for deployment"
-author: kersvers
+author: h3aven-labs
 runs:
   using: docker
   image: Dockerfile
