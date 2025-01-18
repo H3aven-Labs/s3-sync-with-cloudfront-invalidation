@@ -5,10 +5,10 @@ LABEL "com.github.actions.description"="Sync a directory to an AWS S3 bucket and
 LABEL "com.github.actions.icon"="refresh-cw"
 LABEL "com.github.actions.color"="green"
 
-LABEL version="1.0"
-LABEL repository="https://github.com/kersvers/s3-sync-with-cloudfront-invalidation"
-LABEL homepage="https://kersvers.team"
-LABEL maintainer="Robin van Wijngaarden <robin@kersvers.team>"
+LABEL version="1.0.3"
+LABEL repository="https://github.com/h3aven-labs/s3-sync-with-cloudfront-invalidation"
+LABEL homepage="https://h3aven-labs.com"
+LABEL maintainer="H3aven Labs <cloud@h3aven-labs.com>"
 
 # https://github.com/aws/aws-cli/blob/master/CHANGELOG.rst
 ENV AWSCLI_VERSION="1.18.210"
